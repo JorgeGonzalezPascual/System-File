@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "cstdlib": "c",
+        "ficheros_basico.h": "c",
+        "directorios.h": "c",
+        "verificacion.h": "c",
+        "stdlib.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "C_Cpp.dimInactiveRegions": false
+}

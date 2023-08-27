@@ -1,0 +1,2 @@
+Cambiar permisos de scripts:
+chmod +x ./myscript.sh
